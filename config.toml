@@ -1,0 +1,6 @@
+baseURL = "https://danielamazza.github.io/bookshelf/"
+languageCode = "en-us"
+title = "My New Hugo-Site Dani"
+
+[Params]
+  Author = "Daniela Mazza"
